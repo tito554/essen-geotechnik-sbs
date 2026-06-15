@@ -1,0 +1,51 @@
+# Geotechnik — Essen
+
+> Geotechnical engineering services in Essen, Deutschland.
+
+## Services
+- [Anker](https://essen.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://essen.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://essen.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://essen.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://essen.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://essen.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://essen.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://essen.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://essen.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://essen.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://essen.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://essen.geotechnik.sbs/fundamente/)
+- [Grundungen](https://essen.geotechnik.sbs/grundungen/)
+- [Hange](https://essen.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://essen.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://essen.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://essen.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://essen.geotechnik.sbs/labor/)
+- [Labor In Situ](https://essen.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://essen.geotechnik.sbs/masw/)
+- [Pfahle](https://essen.geotechnik.sbs/pfahle/)
+- [Proctor Versuche](https://essen.geotechnik.sbs/proctor-versuche/)
+- [Ruttelverdichtung](https://essen.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://essen.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://essen.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://essen.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://essen.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://essen.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://essen.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://essen.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://essen.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://essen.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://essen.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://essen.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://essen.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://essen.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://essen.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://essen.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://essen.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://essen.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Essen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
